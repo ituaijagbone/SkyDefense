@@ -289,6 +289,7 @@
 		6EBB76EE1944C78D003BD077 /* boom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB76E81944C78D003BD077 /* boom.wav */; };
 		6EBB76EF1944C78D003BD077 /* fire_truck.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB76E91944C78D003BD077 /* fire_truck.wav */; };
 		6EBB76F01944C78D003BD077 /* health.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB76EA1944C78D003BD077 /* health.wav */; };
+		6EC4925219C7C23F002FEEE3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6EC4925119C7C23F002FEEE3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -891,6 +892,7 @@
 		6EBB76E81944C78D003BD077 /* boom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = boom.wav; path = Resources/boom.wav; sourceTree = "<group>"; };
 		6EBB76E91944C78D003BD077 /* fire_truck.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = fire_truck.wav; path = Resources/fire_truck.wav; sourceTree = "<group>"; };
 		6EBB76EA1944C78D003BD077 /* health.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = health.wav; path = Resources/health.wav; sourceTree = "<group>"; };
+		6EC4925119C7C23F002FEEE3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2120,6 +2122,7 @@
 		6E4AEA901944C0A10056471D /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				6EC4925119C7C23F002FEEE3 /* README.md */,
 				6E4AEA9E1944C2250056471D /* GameLayer.cpp */,
 				6E4AEA9F1944C2250056471D /* GameLayer.h */,
 				6E4AEA911944C0A10056471D /* AppDelegate.h */,
@@ -2186,6 +2189,7 @@
 				6EBB76E21944C77A003BD077 /* ipad in Resources */,
 				6E4AE7021944C09D0056471D /* CloseNormal.png in Resources */,
 				6EBB76EE1944C78D003BD077 /* boom.wav in Resources */,
+				6EC4925219C7C23F002FEEE3 /* README.md in Resources */,
 				6E4AE70E1944C09D0056471D /* Icon-Small.png in Resources */,
 				6E4AE70A1944C09D0056471D /* Icon-72.png in Resources */,
 				6E4AE7081944C09D0056471D /* HelloWorld.png in Resources */,

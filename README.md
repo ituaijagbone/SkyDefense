@@ -1,0 +1,1 @@
+Gaming Practice using Cocos2dx based on Roger Engelbert book. Sky Defense is a game where you can tap the screen to start growing a bomb. When the bomb is big enough to be activated, the you tap the screen again to detonate it. Any nearby meteor will explode. The bigger the bomb, the bigger the detonation and the more meteors can be taken out by it.
